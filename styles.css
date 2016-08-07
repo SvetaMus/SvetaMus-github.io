@@ -1,0 +1,273 @@
+.clearfix:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+.wrapper{
+  width: 90%;
+  margin: 0 auto;
+  display: block;
+}
+.menu_up{
+  float: right;
+  font-size: 10pt;
+  padding: 1% 0% 1% 1%;
+}
+.menu_up ul li{
+  padding: 1%;
+}
+.icon_text{
+  margin-bottom: 20px;
+  display: inline-block;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.header{
+  font-size: 5pt;
+  padding: 2% 0%;
+  overflow: hidden;
+}
+.header_header{
+  background-color: #eee;
+  padding: 0.2% 1%;
+  font-size: 12pt;
+  overflow: hidden;
+}
+.header_phone{
+  padding: 3% 0% 10% 0%;
+}
+.header_phone img{
+  width: 6%;
+  float: left;
+
+}
+.logo_zagolovok{
+  font-size: 20pt;
+}
+.logo_phone{
+  font-size: 14pt;
+  padding: 1% 3%;
+}
+.span_logo{
+  font-size: 10pt;
+  color: purple;
+}
+aside{
+  background-color: #eee;
+  font-size: 12pt;
+  overflow: hidden;
+  float: left;
+  width: 18%;
+}
+.fon_nav{
+  background-color: red;
+}
+.nav_aside{
+  width: 20%;
+}
+.nav_aside li{
+  padding: 20% 100% 10% 2%;
+  display: inline-block;
+
+}
+.li_purple{
+  background-color: purple;
+  padding: 1% 100% 0% 0%;
+  color: #fff;
+  font-weight: bold;
+  display: inline-block;
+}
+.nav_aside li a{
+  display: inline-block;
+  padding-right: 100%;
+}
+.nav_aside li a:hover{
+  background-color: purple;
+  padding: 4 7%;
+  box-sizing:border-box;
+  display: block;
+}
+li{
+  float: left;
+}
+.float_block{
+  float: left;
+  padding-left: 6%;
+}
+.content{
+  background-color: p;
+  box-sizing: border-box;
+  padding: 0.5% 0%;
+  overflow: hidden;
+  width: 80%;
+  float: right;
+}
+.searh{
+  width: 97.8%;
+  padding: 1%;
+  margin-bottom: 0.3%;
+}
+input{
+  color: gray;
+  border: 1px solid purple;
+}
+.slider img{
+  width: 100%;
+}
+ul, li{
+   list-style-type: none;
+}
+#menu{
+  width: 200px;
+  text-align: center;
+  list-style-type: none;
+  margin: 50px;
+}
+#menu li{
+  border: 1px solid #000;
+  border-bottom: none;
+  position: relative;
+}
+#menu li a:last-child{
+  border-bottom: 1px solid red;
+}
+.advantages{
+  width: 100%;
+  background-color: #eee;
+  padding: 1% 0%;
+  overflow: hidden;
+}
+.float_block_advantages_pr{
+  width: 70%;
+  float: left;
+  display: inline-block;
+}
+.float_block_advantages_pr img{
+  width: 13%;
+
+}
+.float_block_advantages{
+  float: left;
+  width: 25%;
+}
+.preim_img{
+  width: 12%;
+  padding: 0% 3%;
+}
+.brend{
+  width: 30%;
+  float: left;
+  padding-left: 3%;
+  
+}
+.advantages_span{
+  font-size: 16pt;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+.manufacturers{
+  width: 100%;
+  background-color: #fff;
+  padding: 2% 0%;
+  overflow: hidden;
+  font-size: 16pt;
+}
+.manufacturers_border{
+  padding: 2%;
+  border-bottom: 5px solid #eee;
+}
+.hit{
+  width: 100%;
+  background-color: #fff;
+  padding: 1% 4%;
+  overflow: hidden;
+  font-size: 16pt;
+}
+.hit_tovar{
+  width: 23%;
+  height: 60%;
+  min-width: 100px;
+  float: left;
+  background-color: #fff;
+  border: 1px solid grey;
+  padding: 0.5% 1.5%;
+  margin: 0 1% 3% 1%;
+  overflow: hidden;
+  font-size: 12pt;
+  box-sizing: border-box;
+}
+.hit_tovar:hover{
+  border: 1px solid purple;
+}
+.center_div{
+  width: 93%;
+  margin: 0 auto;
+}
+.hit_tovar img{
+  width: 90%;
+  padding: 0 0 2% 3%;
+}
+.span_grey{
+  color: grey;
+  padding: 1% 0;
+  display: inline-block;
+}
+.span_green{
+  color: #00856f;
+  font-weight: bold;
+  padding: 1% 0;
+  display: inline-block;
+}
+.price_gl{
+  font-size: 24px;
+  font-weight: bold;
+  padding: 6% 0 20% 0;
+  display: inline-block;
+}
+.advantages_img{
+  width: 100%;
+  background-color: #eee;
+  padding: 3% 0%;
+  overflow: hidden;
+}
+.advantages_img_float{
+  float: left;
+  padding-right: 2%;
+  width: 275px;
+}
+.advantages_img_float_vanny{
+  margin-bottom: 14%;
+}
+
+.fl1{
+    float: left;
+  width: 350 px;
+  overflow: hidden;
+  margin-right: 2%;
+}
+.fl2{
+  overflow: hidden;
+}
+.unit{
+  float: left;
+  padding-bottom: 8%;
+  margin-right: 6%;
+}
+.smes{
+  float: left;
+  padding-bottom: 8%;
+}
+.wrapper_11{
+     width: 93%;
+  margin: 0 auto;
+  display: block;
+}
+.preim{
+  display: inline-block;
+  width: 60%;
+  padding-top: 8%;
+}
